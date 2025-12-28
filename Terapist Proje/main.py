@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-from ui import TerapistSistemi 
+from ui import TerapistSistemi
 
 def main():
     app = QApplication(sys.argv)
